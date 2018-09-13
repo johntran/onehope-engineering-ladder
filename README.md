@@ -29,6 +29,13 @@ Individual contributor engineers define a "maker" role at ONEHOPE where a person
 regular basis and has no direct reports. As an individual contributor engineer grows at ONEHOPE the scale and impact
 of the code they write and systems they maintain is expected to increase.
 
+The easiest way to sum up career growth for IC's is: 
+
+"Junior Engineers builds on the rails. Senior Engineers build the rails."
+
+Senior Engineers build software with other engineers in mind so that the team as a whole can produce much more 
+than an individual can.
+
 ### IC0 Intern
 
 - Has some knowledge of CS concepts.
